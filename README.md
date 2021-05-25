@@ -37,3 +37,9 @@
 ### Window Management
 
   [Magnet](//apps.apple.com/app/magnet/id441258766) · snap windows by dragging them to the edge of your display.
+
+## CLI-only settings
+
+### Sound
+
+  [powerchime](//github.com/artginzburg/powerchime) · quickly switch macOS' PowerChime (charging cable connecting sound)
