@@ -25,6 +25,12 @@
   [Batteries Widget](//www.fadel.io/batteries) · Track all your devices' batteries.
   
   <img alt="Batteries" src="https://www.fadel.io/assets/batteries/menubar-batteries@2x.png" height="200">
+  
+  [ModMove](//github.com/keith/ModMove) · <kbd>⌃</kbd><kbd>⌥</kbd><kbd>[mouse move]</kbd> to move windows under the cursor, add <kbd>⇧</kbd> to resize windows.
+  
+  > `brew install modmove`
+  
+  <img alt="ModMove" src="https://raw.githubusercontent.com/keith/ModMove/main/modmove.gif" height="200">
 
   [Lungo](//sindresorhus.com/lungo) · A menu bar app that keeps your Mac awake.
   
@@ -64,6 +70,6 @@
 
 ### Productivity
 
-  [sudo-touchid](//github.com/artginzburg/sudo-touchid) · Automate adding TouchID as sufficient sudo auth method
+  [sudo-touchid](//github.com/artginzburg/sudo-touchid) · Permanent TouchID support 👆 for `sudo`.
   
-  <img alt="sudo-touchid" src="https://github.com/artginzburg/sudo-touchid/raw/main/preview.png" height="200">
+  <img alt="sudo-touchid" src="https://github.com/artginzburg/sudo-touchid/raw/main/misc/preview.png" height="200">
