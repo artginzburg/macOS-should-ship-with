@@ -35,6 +35,12 @@
   [Lungo](//sindresorhus.com/lungo) · A menu bar app that keeps your Mac awake.
   
   <img alt="Lungo" src="https://sindresorhus.com/assets/lungo/screenshot3.jpg" height="200">
+  
+  [Itsycal](//github.com/sfsam/Itsycal) · Tiny menu bar calendar
+  
+  > `brew install itsycal`
+
+  <img alt="Itsycal" src="https://www.mowglii.com/itsycal/itsycalbanner2@2x.png?v=1631382507" height="200" />
 
 ### Utilities
 
