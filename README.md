@@ -40,6 +40,8 @@ Each of these fills a hole the system leaves. Apple could have written any of th
 
   [Hammerspoon](//www.hammerspoon.org) · Bridge between macOS internals and Lua. Automate anything the system won't let you configure.
 
+  [Ice](//icemenubar.app) · Menu bar manager. Hides the icons macOS gives you no way to hide.
+
 ### Input
 
   [LinearMouse](//linearmouse.app) · Per-device pointer settings, and no mouse acceleration. The preference pane Apple never shipped.
@@ -51,6 +53,10 @@ Each of these fills a hole the system leaves. Apple could have written any of th
   [The Unarchiver](//apps.apple.com/app/the-unarchiver/id425424353) · Open any archive in seconds.
 
   [AppCleaner](//freemacsoft.net/appcleaner/) · Fully uninstall your apps with ease.
+
+  [Keka](//www.keka.io) · The archiver Archive Utility should have been — RAR, 7z, and everything else.
+
+  [QLMarkdown](//github.com/sbarex/QLMarkdown) · Quick Look that actually renders Markdown instead of showing you the source.
 
   [Speediness](//sindresorhus.com/speediness) · Connection speed test in the menu bar.
 
