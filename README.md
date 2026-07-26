@@ -60,6 +60,15 @@ Each of these fills a hole the system leaves. Apple could have written any of th
 
   [Speediness](//sindresorhus.com/speediness) · Connection speed test in the menu bar.
 
+  [System Color Picker](//sindresorhus.com/system-color-picker) · The macOS color picker as a real app, with history and more formats.
+
+  <!-- TODO: replace System Color Picker.
+       Two problems: it stays running permanently, and for a long stretch it broke
+       on new macOS releases and simply would not launch.
+       What I want instead: a picker that is off by default, bound to a keyboard
+       shortcut in System Settings, and only wakes when that shortcut is pressed.
+       Keeping an app resident to use it twice a month is bad form. -->
+
 ### Video
 
   [IINA](//iina.io) · The modern video player for macOS. mpv underneath, native on top.
