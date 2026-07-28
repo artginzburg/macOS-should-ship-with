@@ -6,6 +6,8 @@
 
   …and, further down, the ones I install on top of it anyway.
 
+  See also: [Geeky](GEEKY.md) — tools a regular user wouldn't care about.
+
 </div>
 
 ## Should ship with macOS
@@ -14,29 +16,9 @@ Each of these fills a hole the system leaves. Apple could have written any of th
 
 ### Productivity
 
-  [Maccy](//maccy.app) · Clipboard history manager.
-
-  <img alt="Maccy" src="https://maccy.app/img/maccy/Demo.gif" height="200">
-
   [WheelClick](//wheelclick.app) · Middle clicks from the trackpad: three-finger click, three-finger tap, or fn+click.
 
-  [Mission Control Plus](//www.fadel.io/missioncontrolplus) · Manage your windows in Mission Control, adding keyboard navigation, shortcuts and more.
-
-  <img alt="MCP" src="https://imgix.setapp.com/app/376/screenshots/1572884861-5dc0517d80731.png" height="200">
-
-  [ModMove](//github.com/keith/ModMove) · <kbd>⌃</kbd><kbd>⌥</kbd><kbd>[mouse move]</kbd> to move windows under the cursor, add <kbd>⇧</kbd> to resize windows.
-
-  > `brew install modmove`
-
-  <img alt="ModMove" src="https://raw.githubusercontent.com/keith/ModMove/main/modmove.gif" height="200">
-
   [Amphetamine](//apps.apple.com/app/amphetamine/id937984704) · Keep your Mac awake, on your terms — triggers, timers, schedules.
-
-  [Itsycal](//github.com/sfsam/Itsycal) · Tiny menu bar calendar
-
-  > `brew install itsycal`
-
-  <img alt="Itsycal" src="https://www.mowglii.com/itsycal/itsycalbanner2@2x.png?v=1631382507" height="200" />
 
   [Hammerspoon](//www.hammerspoon.org) · Bridge between macOS internals and Lua. Automate anything the system won't let you configure.
 
@@ -75,7 +57,7 @@ Each of these fills a hole the system leaves. Apple could have written any of th
 
   [Beamer](//beamer-app.com) · Stream files to Apple TV and Chromecast.
 
-  <img alt="Beamer" src="https://beamer-app.com/images/section-easy@2x.png" height="200">
+  <img alt="Beamer" src="https://github.com/artginzburg/macOS-should-ship-with/raw/main/misc/beamer-preview.webp" height="200">
 
 ### Browsing
 
@@ -85,23 +67,19 @@ Each of these fills a hole the system leaves. Apple could have written any of th
 
   <img alt="OverPicture" src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/94/0a/d2/940ad255-8b41-cc16-2a1f-a826bb32d270/366c5498-abc5-4da7-94b6-831d07dadd34_OverPicture-Marketing.jpeg/626x0w.webp" height="200">
 
-### Window Management
-
-  [Glaze](//github.com/glzr-io/glazewm) · Tiling window manager inspired by i3wm.
-
 ## CLI-only settings
 
 ### Sound
 
   [powerchime](//github.com/artginzburg/powerchime) · Quickly switch macOS' PowerChime (charging cable connecting sound)
 
-  <img alt="powerchime" src="https://github.com/artginzburg/powerchime/raw/main/preview.png" height="200">
+  <img alt="powerchime" src="https://github.com/artginzburg/powerchime/raw/main/misc/preview.png" height="200">
 
 ### Productivity
 
   [sudo-touchid](//github.com/artginzburg/sudo-touchid) · Permanent TouchID support 👆 for `sudo`.
 
-  <img alt="sudo-touchid" src="https://github.com/artginzburg/sudo-touchid/raw/main/misc/preview.png" height="200">
+  <img alt="sudo-touchid" src="https://github.com/artginzburg/sudo-touchid/raw/main/res/preview.png" height="200">
 
 ---
 
@@ -116,3 +94,19 @@ Not a claim about macOS — nobody expects Apple to bundle these. This is just w
   [Adrafinil](//github.com/kageroumado/adrafinil) · Keeps the Mac awake *only* while an AI coding agent is working — including with the lid closed. Not the same job as Amphetamine above.
 
   [ClashFX](//github.com/Clash-FX/ClashFX) · Proxy client with TUN mode.
+
+  [Glaze](//www.glaze.app) · Build native Mac apps by describing them, by Raycast.
+
+---
+
+## Legacy
+
+Things that used to belong above, kept here with the reason they don't anymore.
+
+  [Maccy](//maccy.app) · Clipboard history manager. — No longer used on newer macOS.
+
+  <img alt="Maccy" src="https://maccy.app/img/maccy/Demo.gif" height="200">
+
+  [Itsycal](//github.com/sfsam/Itsycal) · Tiny menu bar calendar. — The built-in Calendar app is usually convenient enough; one less thing running.
+
+  <img alt="Itsycal" src="https://www.mowglii.com/itsycal/itsycalbanner2@2x.png?v=1631382507" height="200" />
